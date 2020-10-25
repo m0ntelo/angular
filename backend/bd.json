@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Samsung",
+      "price": 12
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 5
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 6
+    }
+  ]
+}
